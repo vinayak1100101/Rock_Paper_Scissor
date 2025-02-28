@@ -1,0 +1,45 @@
+body{
+    background-color: black;
+}
+.title{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+}
+.img{
+    height: 50px;
+}
+.hands{
+    padding: 35px;
+    border-radius: 100px;
+    margin: 8px;
+    background-color: black;
+    cursor: pointer;
+    border-color: white;
+}
+.js-result{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+    color: white;
+}
+.reset{
+    background-color: white;
+    margin: none;
+    padding: 10px;
+    cursor: pointer;
+}
+.play{
+    background-color: white;
+    margin: none;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.js-moves{
+    color: white;
+}
+.js-score{
+    color: white;
+}
